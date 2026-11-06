@@ -1,4 +1,4 @@
-# NIP-77 · Negentropy Syncing on LiberNet
+# NIP-77 (Negentropy Sync) on LiberNet
 
 > Negentropy Syncing, as used by the **LiberNet** apps.
 
